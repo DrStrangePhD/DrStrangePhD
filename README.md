@@ -26,6 +26,6 @@ Will trade Data Science for Web help!
 
 (https://rahuldkjain.github.io/gh-profile-readme-generator/)
 
-<--
+<!--
 hidden?
 -->
