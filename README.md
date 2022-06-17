@@ -1,31 +1,40 @@
 ### Hi there 👋
-Hey I'm Ben, I'm a Dadda Scientist
+Hey I'm Ben, I'm a Dadda Scientist!
 
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on:
 
-Python
+Python Puzzles and blasting my top GCA score (657) out of the water.
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning:
 
-Career Readiness
+Career Readiness -- woof is it not in my wheelhouse.
 
-- 👯 I’m looking to collaborate on ...
+- 👯 I’m looking to collaborate on:
 
 Will trade Data Science for Web help!
 
-- 🤔 I’m looking for help with ...
+- 🤔 I’m looking for help with:
 
+Career Readiness!
 
+- 💬 Ask me about:
 
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+My 4yo's full-blown meltdown on 5/31 that May was ending...
 
+- 📫 How to reach me: 
 
-(https://rahuldkjain.github.io/gh-profile-readme-generator/)
+woodbenwood@gmail.com! 
+
+- 😄 Pronouns: 
+
+he/him
+
+- ⚡ Fun fact:
+
+I've had more than 10 careers. Favorite? Commercial actor: [benwood.me/random-fun-stuff](http://www.benwood.me/random-fun-stuff/)
+
 
 <!--
-hidden?
+hidden text!
 -->
