@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Career Readiness**
 
-- 👯 I’m looking to collaborate on **Career Readiness -- woof is it not in my wheelhouse**
+- 👯 I’m looking to collaborate on **Innovating new Database Structures for video games**
 
 - 🤝 I’m looking for help with **Will trade Data Science for Web help**
 
