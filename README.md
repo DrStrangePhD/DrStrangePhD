@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
-<h3 align="center">A Data Scientist née Dadda Scientist</h3>
+<h3 align="center">From Dadda Scientist to Data Scientist</h3>
 
 - 🔭 I’m currently working on **Python Puzzles and blasting my top GCA score (657) out of the water**
 
