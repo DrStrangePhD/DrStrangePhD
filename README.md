@@ -1,13 +1,13 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">From Dadda Scientist to Data Scientist</h3>
 
-- 🔭 I’m currently working on **Python Puzzles and blasting my top GCA score (707) out of the water**
+- 🔭 I’m currently working on **a pvp simulator for a Pokemon reskin and beating my top GCA score (720)**
 
-- 🌱 I’m currently learning **Labs!**
+- 🌱 I’m currently learning **pycharm, git, and OOP!**
 
 - 👯 I’m looking to collaborate on **Innovating new Database Structures for video games**
 
-- 🤝 I’m looking for help with **Will trade Data Science for Web help**
+# - 🤝 **Will trade Data Science for Web help**
 
 - 💬 Ask me about **My 4yo's full-blown meltdown on 5/31 that May was ending...**
 
