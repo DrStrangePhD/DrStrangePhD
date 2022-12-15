@@ -13,7 +13,7 @@
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1aQ-RtLnAuseSnbz-68XZD-Is_JiYMUkBkwHZiJ6voFQ/edit?usp=sharing](https://docs.google.com/document/d/1aQ-RtLnAuseSnbz-68XZD-Is_JiYMUkBkwHZiJ6voFQ/edit?usp=sharing)
 
-- 🤝 **Will trade Data Science for Web help on this ancient Wordpress build:**
+- 🤝 **Will trade Data Science for Web help on this ancient Wordpress build ↓ **
 
 - ⚡ Fun fact **Fave career thus far, commercial actor: benwood.me/random-fun-stuff**
 
