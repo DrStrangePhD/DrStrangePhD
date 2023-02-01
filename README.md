@@ -3,15 +3,15 @@
 
 - 🔭 I’m currently working on **a pvp simulator for a Pokemon reskin and beating my top GCA score (720)**
 
-- 🌱 I’m currently learning **pycharm, git, and OOP!**
+- 🌱 I’m currently learning **PyCharm, git, and OOP!**
 
-- 👯 I’m looking to collaborate on **Innovating new Database Structures for video games**
+- 👯 I’m looking to collaborate on **Creating cheap, player-like Bots for video games**
 
 - 💬 Ask me about **My 4yo's full-blown meltdown on 5/31 that May was ending...**
 
 - 📫 How to reach me **woodbenwood@gmail.com**
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1aQ-RtLnAuseSnbz-68XZD-Is_JiYMUkBkwHZiJ6voFQ/edit?usp=sharing](https://docs.google.com/document/d/1aQ-RtLnAuseSnbz-68XZD-Is_JiYMUkBkwHZiJ6voFQ/edit?usp=sharing)
+- 📄 Know about my experiences [https://docs.google.com/document/d/1Ylmz73W84qasaHVJlejoqV_0jTNlziT0Ei4_HWRHUhs/edit?usp=sharing]
 
 - 🤝 **Will trade Data Science for Web help on this ancient Wordpress build ↓ **
 
