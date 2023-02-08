@@ -2,6 +2,7 @@
 <h3 align="center">From Dadda Scientist to Data Scientist</h3>
 
 - 🔭 I'm putting the finishing touches on **my collection simulator for Marvel Snap CL's through Series 3** (the starred repo)
+- 
 ~~- I’m currently working on **a pvp simulator for a Pokemon reskin and beating my top GCA score (720)**~~
 
 - 🌱 I’m currently learning **PyCharm, git, and OOP!**
