@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">From Dadda Scientist to Data Scientist</h3>
 
-- 🔭 I'm updating **my collection simulator for Marvel Snap CL's through Series 3** (the starred repo)
+- 🔭 I'm currently updating **my collection simulator for Marvel Snap CL's through Series 3** (the starred repo)
 
-- 🌱 I’m currently learning **PyCharm, git, and OOP!**
+- 🌱 And learning **PyCharm, git, and OOP!**
 
 - 👯 I’m looking to collaborate on **Creating cheap, player-like Bots for video games**
 
