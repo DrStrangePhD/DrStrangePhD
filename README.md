@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ben</h1>
 <h3 align="center">From Dadda Scientist to Data Scientist</h3>
 
-- 🔭 I'm putting the finishing touches on **my collection simulator for Marvel Snap CL's through Series 3** (the starred repo)
+- 🔭 I'm updating **my collection simulator for Marvel Snap CL's through Series 3** (the starred repo)
 
 - 🌱 I’m currently learning **PyCharm, git, and OOP!**
 
@@ -12,8 +12,6 @@
 - 📫 How to reach me **woodbenwood@gmail.com**
 
 - 📄 Know about my experiences [https://docs.google.com/document/d/1nIwQjMN7cX1hSFFdTPs3qKcvDGCanxmmDj5h7PTdpNU/edit?usp=sharing]
-
-- 🤝 **Will trade Data Science for Web help on this ancient Wordpress build ↓ **
 
 - ⚡ Fun fact **Fave career thus far, commercial actor: benwood.me/random-fun-stuff**
 
