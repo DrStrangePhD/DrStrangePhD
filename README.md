@@ -5,15 +5,15 @@
 
 - 🌱 ...and learning **PyCharm, git, and OOP!**
 
-- 👯 I’m looking to collaborate on **Creating cheap, player-like Bots for video games**
+- 👯 I’m looking to collaborate on **creating cheap, player-like Bots for video games**
 
-- 💬 Ask me about **My 4yo's full-blown meltdown on 5/31 that May was ending...**
+- 💬 Ask me about **my 4yo's full-blown meltdown on 5/31 that May was ending...**
 
-- 📫 How to reach me **woodbenwood@gmail.com** (email)
+- 📫 How to reach me: **woodbenwood@gmail.com** (email)
 
-- 📄 Know about my experiences [https://docs.google.com/document/d/1nIwQjMN7cX1hSFFdTPs3qKcvDGCanxmmDj5h7PTdpNU/edit?usp=sharing] (resume)
+- 📄 Know about my experiences: [https://docs.google.com/document/d/1nIwQjMN7cX1hSFFdTPs3qKcvDGCanxmmDj5h7PTdpNU/edit?usp=sharing] (resume)
 
-- ⚡ Fun fact **Fave career thus far, commercial actor: benwood.me/random-fun-stuff**
+- ⚡ Fun fact: **fave career thus far, commercial actor: benwood.me/random-fun-stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
