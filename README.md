@@ -11,7 +11,7 @@
 
 - 📫 How to reach me: **woodbenwood@gmail.com** (email)
 
-- 📄 Know about my experiences: [https://docs.google.com/document/d/1nIwQjMN7cX1hSFFdTPs3qKcvDGCanxmmDj5h7PTdpNU/edit?usp=sharing] (resume)
+- 📄 Behold! my qualifications: [https://docs.google.com/document/d/1nIwQjMN7cX1hSFFdTPs3qKcvDGCanxmmDj5h7PTdpNU/edit?usp=sharing] (resume)
 
 - ⚡ Fun fact: **fave career thus far, commercial actor: benwood.me/random-fun-stuff**
 
