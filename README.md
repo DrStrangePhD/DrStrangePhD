@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Ben</h1>
+<h1 align="center">Hi 👋 I'm Ben</h1>
 <h3 align="center">~ from Dadda Scientist to Data Scientist ~</h3>
 
 - 🔭 I'm currently updating **my simulator for Marvel Snap Collections** (the starred repo!)
