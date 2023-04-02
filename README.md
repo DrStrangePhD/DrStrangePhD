@@ -3,7 +3,7 @@
 
 - 🔭 I'm currently updating **my simulator for Marvel Snap Collections** (the starred repo!)
 
-- 🌱 ...and learning **PyCharm, git, and OOP**...
+- 🌱 ...and learning **Python, Pandas, Numpy, and Visualizations**...
 
 - 👯 I’m looking to collaborate on **creating cheap, player-like Bots for video games**
 
