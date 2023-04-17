@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋 I'm Ben</h1>
 <h3 align="center">Technical Project Manager | Solutions Engineer | Python Developer/Engineer | Data Scientist</h3>
 
-- 🔭 I'm currently updating **my simulator for Marvel Snap Collections** (the starred repo!)
+- 🔭 I'm currently revamping **my simulator for Marvel Snap Collections** (the starred repo!)
 
 - 🌱 ...and learning **Python, Pandas, Numpy, and Visualizations**...
 
