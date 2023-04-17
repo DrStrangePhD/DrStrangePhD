@@ -13,7 +13,7 @@
 
 - 📄 Behold! my qualifications: [https://docs.google.com/document/d/1nIwQjMN7cX1hSFFdTPs3qKcvDGCanxmmDj5h7PTdpNU/edit?usp=sharing] (resume)
 
-- ⚡ Fun fact: **fave career thus far, commercial actor: benwood.me/random-fun-stuff**
+- ⚡ Fun fact: I've had a few careers already, ** fave was commercial actor: benwood.me/random-fun-stuff**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
