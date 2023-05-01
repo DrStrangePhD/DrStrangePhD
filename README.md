@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **my 4yo's full-blown meltdown on 5/31 that May was ending...**
 
-- 📫 How to reach me: **woodbenwood@gmail.com** (email)
+- 📫 How to reach me: **woodbenwood@gmail.com**
 
 - 📄 My resume: [https://docs.google.com/document/d/1nIwQjMN7cX1hSFFdTPs3qKcvDGCanxmmDj5h7PTdpNU/edit?usp=sharing] 
 
