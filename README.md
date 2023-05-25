@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **creating cheap, player-like Bots for video games**
 
-- 💬 Ask me about **my 4yo's full-blown meltdown on 5/31/22 that May was ending...** /n (**May 2023 UPDATE** -- she's 5 now, and thinks that video is as funny as I do...)
+- 💬 Ask me about **my 4yo's full-blown meltdown on 5/31/22 that May was ending...** \n (**May 2023 UPDATE** -- she's 5 now, and thinks that video is as funny as I do...)
 
 - 📫 How to reach me: **woodbenwood@gmail.com**
 
