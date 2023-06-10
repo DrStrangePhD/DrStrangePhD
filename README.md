@@ -14,7 +14,7 @@
 
 - 📄 My resume: [https://docs.google.com/document/d/1nIwQjMN7cX1hSFFdTPs3qKcvDGCanxmmDj5h7PTdpNU/edit?usp=sharing] 
 
-- ⚡ Fun fact: I've had a few careers already, weirdest thus far: ** Commercial Actor: benwood.me/random-fun-stuff**
+- ⚡ Fun fact: I've had a few careers already, weirdest thus far: **impersonating a made-up boyfriend so my employer's friends would believe he was real**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
