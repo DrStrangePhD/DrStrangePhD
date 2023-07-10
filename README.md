@@ -7,7 +7,7 @@
 
 - 👯 I’m looking to collaborate on **creating cheap, player-like Bots for video games**
 
-- - 💬 Ask me about **The importance of **
+- 💬 Ask me about **The direct relationship of standup attendance/engagement to checking in personally with team members**
 
 - 💬 That's boring! Ask me about **my 4yo's full-blown meltdown on 5/31/22 that May was ending...**
 (**May 2023 UPDATE** -- she's 5 now, and thinks that video is as funny as I do...)
