@@ -1,7 +1,7 @@
 <h1 align="center">😦 Hi 😊 I'm Ben 🤯 </h1>
 <h3 align="center">Technical Project Manager | Python Engineer </h3>
 
-- 🔭 I'm currently revamping **my simulator for Marvel Snap Collections** (the starred repo!)
+- 🔭 I'm currently revamping **my simulator for Marvel Snap Collections** (the starred repo)
 
 - 🌱 ...and learning **Django!!**...
 
@@ -9,8 +9,7 @@
 
 - 💬 Ask me about **The direct relationship of standup attendance/engagement to checking in personally with team members**
 
-- 💬 That's boring! Ask me about **my 4yo's full-blown meltdown on 5/31/22 that May was ending...**
-(**May 2023 UPDATE** -- she's 5 now, and thinks that video is as funny as I do...)
+- 💬 That's boring! Ask me about **my kid's full-blown meltdown on 5/31 that May was ending...**
 
 - 📫 How to reach me: **woodbenwood@gmail.com**
 
