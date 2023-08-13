@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **The direct relationship of standup attendance/engagement to checking in personally with team members**
 
-- 💬 That's boring! Ask me about **my kid's full-blown meltdown on 5/31 that May was ending...**
+- 💬 OR...Ask me about **my kid's full-blown meltdown on 5/31 that May was ending...**
 
 - 📫 How to reach me: **woodbenwood@gmail.com**
 
