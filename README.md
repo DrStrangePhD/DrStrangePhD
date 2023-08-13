@@ -5,7 +5,7 @@
 
 - 🌱 ...and learning **Django**...
 
-- 👯 I’m looking to collaborate on **creating cheap, player-like Bots for video games**
+~~- 👯 I’m looking to collaborate on **creating cheap, player-like Bots for video games**~~ HOLD on the collaboration front: working 2-3 part-time jobs
 
 - 💬 Ask me about **The direct relationship of standup attendance/engagement to checking in personally with team members**
 
